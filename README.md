@@ -1,2 +1,3 @@
 # Unique-Recovery-of-Transport-Maps-and-Vector-Fields
-Recovering transport maps and vector fields in data-fitting inverse problems consisting of finitely many measure-valued observations.
+
+This repository contains Python code for the numerical experiments in the paper ``On the Unique Recovery of Transport Maps and Vector Fields from Finite Measure-Valued Data" by Jonah Botvinick-Greenhouse (Cornell University) and Yunan Yang (Cornell University). 
