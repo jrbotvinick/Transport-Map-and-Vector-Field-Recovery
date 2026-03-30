@@ -10,3 +10,4 @@ The files are organized as follows:
 - `plot_lorenz.py`: Plots the Lorenz results and computes error statistics over 10 trials.
 - `divergence_recovery.py`: Recovers a 2D vector field from its weighted divergence operator on a finite collection of densities.
 - `plot_divergence_recovery.py`: Plots the results of `divergence_recovery.py` and examines reconstruction error as a function of the number of densities.
+
