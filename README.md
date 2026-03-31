@@ -13,3 +13,7 @@ The files are organized as follows:
 - `divergence_recovery.py`: Recovers a 2D vector field from its weighted divergence operator on a finite collection of densities.
 - `plot_divergence_recovery.py`: Plots the results of `divergence_recovery.py` and examines reconstruction error as a function of the number of densities.
 
+The following plots show a marginal of distributional snapshot data for learning the Lorenz-63 dynamics and the result of fitting a model to the data snapshots. They can be reproduced by running `Lorenz_test.py` and `plot_lorenz.py`. 
+
+<img width="6492" height="1010" alt="lorenz_1a" src="https://github.com/user-attachments/assets/258d89e6-20bd-451a-8e0a-a2b18550baca" />
+<img width="3109" height="2434" alt="lorenz_1b" src="https://github.com/user-attachments/assets/8a188b14-7b7f-4230-ac9f-d8aa7358e5ea" />
