@@ -10,8 +10,8 @@ import pickle
 
 
 
-ms = [1,2,3,4,5,6,7]
-centers = np.array([np.random.uniform(-1,1,8),np.random.uniform(-1,1,8)]).T
+ms = [1,2,3,4,5]
+centers = np.array([np.random.uniform(-1,1,5),np.random.uniform(-1,1,5)]).T
 sigmas = [np.random.uniform(0.75,1.25) for i in range(8)]
 
 plt.scatter(centers[:,0],centers[:,1])
